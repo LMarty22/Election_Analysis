@@ -15,11 +15,11 @@ After a deep dive into the data presented, it was calculated to that 369,711 tot
 
 ![](https://github.com/LMarty22/Election_Analysis/blob/main/Total%20Number%20of%20Votes.png)
 
-*It was determined that there was a total of three candidates voters voted for; Charles Casper Stockham, Diana DeGette, and Raymond Anthony. Diana DeGette won the election with 272,892 total votes equivalent to roughly 74% of total voter turnout. 
+ *It was determined that there was a total of three candidates voters voted for; Charles Casper Stockham, Diana DeGette, and Raymond Anthony. Diana DeGette won the election with 272,892 total votes equivalent to roughly 74% of total voter turnout. 
 
 ![](https://github.com/LMarty22/Election_Analysis/blob/main/Results%20by%20Candidate.png)
 
-*Denver county is determined to have the highest voter turnout. Denver county in total had 82%, (306,055) of the total election ballots received. 
+ *Denver county is determined to have the highest voter turnout. Denver county in total had 82%, (306,055) of the total election ballots received. 
 
 ![](https://github.com/LMarty22/Election_Analysis/blob/main/Results%20by%20County%20.png)
 
